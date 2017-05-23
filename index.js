@@ -5,5 +5,8 @@ function details( firstname, lastname){
 	this.lastname = lastname;
 }
 
-var abhi = new details('abhi','shahi')
-console.log(abhi);
+
+
+
+
+
